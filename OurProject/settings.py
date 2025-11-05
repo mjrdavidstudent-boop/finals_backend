@@ -30,7 +30,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1', 
     '192.168.56.1',
-    'https://finals-backend-v8m3.onrender.com' # <--- CORRECTED: Added the Render domain
+    'finals-backend-v8m3.onrender.com' # <--- CORRECTED: Added the Render domain
 ]
 
 
